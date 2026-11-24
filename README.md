@@ -35,8 +35,8 @@ Desktop packages for macOS (Apple Silicon) and Windows will be published under [
 Atomic parameters come from a Hartree–Fock–Slater atom calibrated to Hartree–Fock. Edge energies and core-hole widths come from xraydb.
 
 <p align="center">
-  <img src="images/examples_overview.png" alt="Example MuchXs calculations: XAS and resonant photoemission for Ce3+, Ce4+, Cu2+, Gd3+, Mn2+, Ni2+, Ni3+, Ru4+ and Ti4+" width="640"><br>
-  <i>Example calculations: L/M/N-edge XAS (left) and on/off-resonance photoemission (right) for nine ions.</i>
+  <img src="images/examples_overview.png" alt="Example MuchXs calculations: Ni2+ L2,3-edge XAS, Ni2+ valence-band photoemission, Ni2+ 2p3d RIXS map, and Cu2+ 2p3d3d resonant photoemission" width="760"><br>
+  <i>Example calculations with the charge-transfer multiplet model: (a) Ni²⁺ L₂,₃-edge XAS, (b) Ni²⁺ valence-band photoemission, (c) Ni²⁺ 2p3d RIXS across the L₃ edge, (d) Cu²⁺ 2p3d3d resonant photoemission on and off the L₃ resonance.</i>
 </p>
 
 ## Workflow
