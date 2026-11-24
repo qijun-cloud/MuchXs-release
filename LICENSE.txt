@@ -1,0 +1,30 @@
+MuchXs — Licence for Free Academic Use
+Copyright © 2026 Dr. Qijun Che
+
+1. Permitted use
+   You may install and use MuchXs free of charge for non-commercial academic research and teaching, at
+   universities, non-profit research institutes and public research laboratories.
+
+2. Not permitted without the prior written permission of the copyright holder
+   a) commercial use of any kind, including use in or for a company, or for paid services;
+   b) redistributing MuchXs or any part of it (please refer others to the official download instead);
+   c) modifying MuchXs, or using parts of it in other software;
+   d) reverse engineering, decompiling or disassembling the compiled parts of MuchXs, or attempting to
+      recover their source code.
+
+3. Publications
+   If results obtained with MuchXs are published, please acknowledge MuchXs and cite:
+   Q. Che, MuchXs: charge-transfer multiplet theory for X-ray spectroscopy, 2026, https://github.com/qijun-cloud/MuchXs-release.
+
+4. Literature data
+   The digitised spectra and literature entries included with MuchXs come from the cited publications;
+   their rights remain with the original authors and publishers. Please cite the original sources.
+
+5. No warranty
+   MuchXs is provided "as is", without warranty of any kind, express or implied, including fitness for a
+   particular purpose. The copyright holder is not liable for any damage arising from its use.
+
+6. Termination
+   This licence ends automatically if its terms are not followed.
+
+Permissions and other enquiries: cqijun@stanford.edu.
