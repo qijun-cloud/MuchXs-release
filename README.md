@@ -32,11 +32,9 @@ Desktop packages for macOS (Apple Silicon) and Windows will be published under [
 | **Configurations** | ground state vⁿ + vⁿ⁺¹L + vⁿ⁺²L² + …, with a user-chosen number of ligand-hole configurations (0 = atomic limit) |
 | **Analysis** | comparison with a curated database of experimental spectra or with the user's own data; fitting of energy shift and broadening; digitising of published figures; Tanabe–Sugano diagrams |
 
-Atomic parameters come from a Hartree–Fock–Slater atom calibrated to Hartree–Fock. Edge energies and core-hole widths come from xraydb.
-
 <p align="center">
-  <img src="images/examples_overview.png" alt="Example MuchXs calculations: Ni2+ L2,3-edge XAS, Ni2+ valence-band photoemission, Ni2+ 2p3d RIXS map, and Cu2+ 2p3d3d resonant photoemission" width="760"><br>
-  <i>Example calculations with the charge-transfer multiplet model: (a) Ni²⁺ L₂,₃-edge XAS, (b) Ni²⁺ valence-band photoemission, (c) Ni²⁺ 2p3d RIXS across the L₃ edge, (d) Cu²⁺ 2p3d3d resonant photoemission on and off the L₃ resonance.</i>
+  <img src="images/NdNiO2_RPES_exp_vs_theory.png" alt="Ni L3-edge resonant photoemission map of infinite-layer NdNiO2: experiment, MuchXs theory, and the on-resonance spectrum compared" width="820"><br>
+  <i>Ni L₃-edge resonant photoemission of infinite-layer NdNiO₂ (Ni¹⁺): measured map (left), MuchXs charge-transfer multiplet calculation (middle), and the spectrum on resonance (right).</i>
 </p>
 
 ## Workflow
