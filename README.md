@@ -19,6 +19,8 @@ MuchXs is designed and developed by Dr. Qijun Che (SLAC National Accelerator Lab
 
 **Web app:** <https://muchxs.streamlit.app/>. Runs in the browser, with no installation or account needed.
 
+> **If the web app shows an error or does not load,** please wait a few minutes and try again. The app is hosted on Streamlit Community Cloud, and short outages or a "waking up" screen come from the hosting service, not from MuchXs.
+
 Desktop packages for macOS (Apple Silicon) and Windows will be published under [Releases](../../releases).
 
 ## What it calculates
